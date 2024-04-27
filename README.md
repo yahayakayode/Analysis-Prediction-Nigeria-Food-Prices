@@ -1,6 +1,6 @@
-# Kano Nigeria Chapter Food Prices Analysis
+# Omdena Kano Nigeria Chapter Food Prices Analysis and Prediction
 
-This project leverages Machine Learning techniques and Python programming to analyze historical food prices data in Nigeria, predict future prices, and offer valuable insights for consumers, policymakers, and stakeholders.
+This project leverages Machine Learning techniques and Python programming language to analyze historical food prices data in Nigeria, predict future prices, and offer valuable insights for consumers, policymakers, and stakeholders.
 
 ## Getting Started
 
